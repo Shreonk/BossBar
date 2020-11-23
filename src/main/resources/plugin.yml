@@ -1,0 +1,10 @@
+main: me.Shreonk.BossBar.main
+name: BossBar
+author: "Shreonk"
+version: 1.0
+api-version: 1.15
+description: A configurable bossbar plugin
+commands:
+  bossbar:
+    set:
+      description: Sets a bossbar
